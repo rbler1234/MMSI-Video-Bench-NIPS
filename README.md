@@ -118,6 +118,7 @@ All of our data is available on [Hugging Face](https://huggingface.co/datasets/r
   "user_prompt": Question text, with <video> as a placeholder for video and <image> for auxiliary images.
   "format_prompt": Output format requirements.
   "ground_truth": Correct answer.
+  "hint": The rationale used when reviewing annotation questions for acceptance, which can serve as a reference prompt if the problem is too difficult.
 }
 ```
 
