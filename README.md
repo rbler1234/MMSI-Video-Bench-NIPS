@@ -350,16 +350,15 @@ python run.py --model Qwen2.5-VL-32B-Instruct --data MMSIVideoBench_50frame
 
 ## 📄 License
 
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
-[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+[Creative Commons Attribution 4.0 International License][cc-by].
 
-[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+[![CC BY 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)][cc-by]
 
-[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
-[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
-[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
+[cc-by]: https://creativecommons.org/licenses/by/4.0/
+
 
 ## Acknowledgment
 MMSI-Video-Bench utilizes data from the following open-source datasets: Roomtour3d, ScanNet, ScanNet++, 3RScan, ARKitScenes, RealEstate10k, DL3DV, Waymo, NuScenes, OVIS, TrackingNet, LaSOT, UAV123, Ego4D, EPIC-KITCHENS, EgoExoLearn, MultiSports, charades, LEMMA, TF2023, CVMHT, AVA, DROID, RH20T, DTU. We sincerely thank the respective teams for their valuable contributions to the research community.
