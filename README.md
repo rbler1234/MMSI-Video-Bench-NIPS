@@ -37,7 +37,7 @@ This includes understanding camera motion, instance motion, and interactive moti
 
 ## 📊 Data Details
 
-All of our data is available on [Hugging Face] and includes the following components:
+All of our data is available on https://www.kaggle.com/datasets/abcdwdedwefw/mmsi-video-bench and includes the following components:
 
 🎥 **Video Data** (`videos.zip`): Contains the video clip file (.mp4) corresponding to each sample. This file is generally not required for most models.
 
